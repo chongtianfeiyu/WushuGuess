@@ -1,0 +1,9 @@
+<schools>
+<school id="1" name="移花宫" gifts="花神七式" texture="yhg"/>
+
+<school id="2" name="万兽山庄" gifts="" texture="wssz"/>
+<school id="3" name="徐家庄" gifts="" texture="xjz"/>
+<school id="4" name="桃花岛" gifts="" texture="thd"/>
+<school id="5" name="金针沈家" gifts="" texture="jzsj"/>
+<school id="6" name="无根门" gifts="辟邪剑法" texture="wgm"/>
+</schools>

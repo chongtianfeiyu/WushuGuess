@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:168c70248cf203a568db7ce09f9c9aff$ -->
+<TextureAtlas imagePath="minimal.png">
+    <SubTexture n="button-back-disabled-skin" x="215" y="3" w="36" h="60"/>
+    <SubTexture n="button-back-down-skin" x="175" y="3" w="36" h="60"/>
+    <SubTexture n="button-back-up-skin" x="135" y="3" w="36" h="60"/>
+    <SubTexture n="button-call-to-action-up-skin" x="358" y="3" w="11" h="11"/>
+    <SubTexture n="button-danger-down-skin" x="120" y="110" w="15" h="15"/>
+    <SubTexture n="button-danger-up-skin" x="343" y="18" w="11" h="11"/>
+    <SubTexture n="button-disabled-skin" x="343" y="3" w="11" h="11"/>
+    <SubTexture n="button-down-skin" x="101" y="110" w="15" h="15"/>
+    <SubTexture n="button-forward-disabled-skin" x="91" y="3" w="40" h="60"/>
+    <SubTexture n="button-forward-down-skin" x="47" y="3" w="40" h="60"/>
+    <SubTexture n="button-forward-up-skin" x="3" y="3" w="40" h="60"/>
+    <SubTexture n="button-quiet-up-skin" x="461" y="83" w="11" h="11"/>
+    <SubTexture n="button-selected-disabled-skin" x="82" y="110" w="15" h="15"/>
+    <SubTexture n="button-selected-skin" x="63" y="110" w="15" h="15"/>
+    <SubTexture n="button-up-skin" x="446" y="83" w="11" h="11"/>
+    <SubTexture n="callout-arrow-bottom" x="295" y="33" w="44" h="26"/>
+    <SubTexture n="callout-arrow-left" x="33" y="67" w="26" h="44"/>
+    <SubTexture n="callout-arrow-right" x="3" y="67" w="26" h="44"/>
+    <SubTexture n="callout-arrow-top" x="255" y="3" w="44" h="26"/>
+    <SubTexture n="callout-background-skin" x="431" y="83" w="11" h="11"/>
+    <SubTexture n="check-disabled-icon" x="429" y="43" w="36" h="36"/>
+    <SubTexture n="check-icon" x="469" y="33" w="36" h="36"/>
+    <SubTexture n="check-selected-disabled-icon" x="429" y="3" w="36" h="36"/>
+    <SubTexture n="check-selected-icon" x="376" y="53" w="36" h="36"/>
+    <SubTexture n="drop-down-arrow" x="3" y="115" w="21" h="10"/>
+    <SubTexture n="header-skin" x="469" y="18" w="5" h="11"/>
+    <SubTexture n="inset-background-disabled-skin" x="416" y="83" w="11" h="11"/>
+    <SubTexture n="inset-background-focus-skin" x="414" y="33" w="11" h="11"/>
+    <SubTexture n="inset-background-skin" x="399" y="33" w="11" h="11"/>
+    <SubTexture n="list-accessory-drill-down-icon" x="479" y="3" w="18" h="26"/>
+    <SubTexture n="list-item-down" x="469" y="3" w="6" h="11"/>
+    <SubTexture n="list-item-selected" x="501" y="18" w="6" h="11"/>
+    <SubTexture n="list-item-up" x="501" y="3" w="6" h="11"/>
+    <SubTexture n="page-indicator-normal-disabled-skin" x="383" y="33" w="12" h="12"/>
+    <SubTexture n="page-indicator-normal-skin" x="203" y="110" w="12" h="12"/>
+    <SubTexture n="page-indicator-selected-disabled-skin" x="187" y="110" w="12" h="12"/>
+    <SubTexture n="page-indicator-selected-skin" x="171" y="110" w="12" h="12"/>
+    <SubTexture n="pf_ronda_seven_0" x="219" y="107" w="256" h="18" frameX="0" frameY="0" frameWidth="256" frameHeight="32"/>
+    <SubTexture n="picker-list-item-selected-icon" x="255" y="33" w="36" h="29"/>
+    <SubTexture n="radio-disabled-icon" x="336" y="63" w="36" h="36"/>
+    <SubTexture n="radio-icon" x="296" y="63" w="36" h="36"/>
+    <SubTexture n="radio-selected-disabled-icon" x="256" y="66" w="36" h="36"/>
+    <SubTexture n="radio-selected-icon" x="216" y="67" w="36" h="36"/>
+    <SubTexture n="scrollbar-thumb-skin" x="28" y="115" w="4" h="4"/>
+    <SubTexture n="tab-down-skin" x="165" y="67" w="47" h="39"/>
+    <SubTexture n="tab-selected-disabled-skin" x="114" y="67" w="47" h="39"/>
+    <SubTexture n="tab-selected-skin" x="63" y="67" w="47" h="39"/>
+    <SubTexture n="thumb-disabled-skin" x="155" y="110" w="12" h="12" frameX="-4" frameY="-4" frameWidth="16" frameHeight="16"/>
+    <SubTexture n="thumb-skin" x="139" y="110" w="12" h="12" frameX="-4" frameY="-4" frameWidth="16" frameHeight="16"/>
+    <SubTexture n="toolbar-button-disabled-skin" x="323" y="3" w="16" h="16"/>
+    <SubTexture n="toolbar-button-down-skin" x="303" y="3" w="16" h="16"/>
+    <SubTexture n="toolbar-button-selected-skin" x="363" y="33" w="16" h="16"/>
+    <SubTexture n="toolbar-button-up-skin" x="343" y="33" w="16" h="16"/>
+</TextureAtlas>

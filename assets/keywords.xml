@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<skill name="飞花落叶"
+		   gift="花神七式"
+		   id="1"
+		   words="花败柳成荷飞怒一小叶平宁开星鬼玉落开三神气心风舞"
+		   icon="yhg_fhly"/>
+	<skill name="花飞蝶舞"
+		   gift="花神七式"
+		   id="2"
+		   words="花败柳成荷千怒一小飞平宁开星鬼玉金开三蝶气心风舞"
+		   icon="yhg_hfdw"/>
+	<skill name="花须蝶芒"
+		   gift="花神七式"
+		   id="3"
+		   words="花败柳成荷须怒一小萧平宁芒星鬼玉金蝶三神气心风舞"
+		   icon="yhg_hxdm"/>
+	<skill name="枯木生花"
+		   gift="花神七式"
+		   id="4"
+		   words="花败枯成荷千怒一小木平宁开星生玉金开三神气心风舞"
+		   icon="yhg_kmsh"/>
+	<skill name="披星戴月"
+		   gift="花神七式"
+		   id="5"
+		   words="花败披成荷千怒一小萧平宁戴星鬼玉金开月神气心风舞"
+		   icon="yhg_pxdy"/>
+	<skill name="神鬼莫敌"
+		   gift="花神七式"
+		   id="6"
+		   words="花败神成荷莫怒一小萧平敌开星鬼玉金开三神气心风舞"
+		   icon="yhg_sgmd"/>
+	<skill name="移花接玉"
+		   gift="花神七式"
+		   id="7"
+		   words="花败柳移荷千接一小萧平宁开星鬼玉金开三神气心风舞"
+		   icon="yhg_yhjy"/>
+</skills>

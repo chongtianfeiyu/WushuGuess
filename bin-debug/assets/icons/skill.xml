@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:9b13fa93c044e440ca9aeabe6e4d9615$ -->
+<!--Format:
+n  => name of the SubTexture
+x  => SubTexture x pos in texture
+y  => SubTexture y pos in texture
+w  => SubTexture width (may be trimmed)
+h  => SubTexture height (may be trimmed)
+oX => SubTexture's x-corner offset (only available if trimmed)
+oY => SubTexture's y-corner offset (only available if trimmed)
+oW => SubTexture's original width (only available if trimmed)
+oH => SubTexture's original height (only available if trimmed)
+r => 'y' only set if SubTexture is rotated
+-->
+<TextureAtlas imagePath="skill.png" width="1024" height="2048">
+    <SubTexture n="challenge" x="484" y="1130" w="125" h="160"/>
+    <SubTexture n="finished" x="795" y="1222" w="86" h="151" oX="2" oY="3" oW="90" oH="155"/>
+    <SubTexture n="jzsj" x="484" y="2" w="480" h="280"/>
+    <SubTexture n="stage_bg" x="2" y="2" w="480" h="800"/>
+    <SubTexture n="thd" x="484" y="284" w="480" h="280"/>
+    <SubTexture n="wgm" x="2" y="804" w="480" h="280"/>
+    <SubTexture n="wssz" x="484" y="848" w="480" h="280"/>
+    <SubTexture n="xjz" x="484" y="566" w="480" h="280"/>
+    <SubTexture n="yhg" x="2" y="1086" w="480" h="280"/>
+    <SubTexture n="yhg_fhly" x="703" y="1222" w="90" h="90"/>
+    <SubTexture n="yhg_hfdw" x="484" y="1292" w="90" h="90"/>
+    <SubTexture n="yhg_hxdm" x="611" y="1222" w="90" h="90"/>
+    <SubTexture n="yhg_kmsh" x="887" y="1130" w="90" h="90"/>
+    <SubTexture n="yhg_pxdy" x="795" y="1130" w="90" h="90"/>
+    <SubTexture n="yhg_sgmd" x="703" y="1130" w="90" h="90"/>
+    <SubTexture n="yhg_yhjy" x="611" y="1130" w="90" h="90"/>
+</TextureAtlas>
